@@ -1,2 +1,2 @@
 # pythonthehardway
-exercises from the book
+Exercises from the book of Z.Shaw
